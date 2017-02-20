@@ -1,0 +1,54 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+header.content-header {
+    border-bottom:2px solid lightgreen;
+    margin-bottom:16px;
+}
+
+.content-header-action {
+    padding-top:16px;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+    margin-left: 1000px;
+}
+
+.col-md-6.content-action.text-right {
+    margin-top: 50px;
+}
+
+input.btn.btn-default {
+    margin-left: 800px;
+}
+.form-group {
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+
+a.btn.btn-text {
+    margin-left: 500px;
+    margin-top: -95px;
+}
+.btn.btn-success {
+    margin-top: -90px;
+}
